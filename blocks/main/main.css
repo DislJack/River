@@ -1,8 +1,8 @@
 .main {
   width: 100%;
   max-width: 1280px;
-  padding: auto 10px;
   margin: 0 auto;
   display: flex;
+  justify-content: space-around;
   background-color: #c2c9c2;
 }
